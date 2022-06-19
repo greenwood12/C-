@@ -13,3 +13,5 @@ C:\이시영\demo3\demo3\obj\Debug\net7.0\refint\demo3.dll
 C:\이시영\demo3\demo3\obj\Debug\net7.0\demo3.pdb
 C:\이시영\demo3\demo3\obj\Debug\net7.0\demo3.genruntimeconfig.cache
 C:\이시영\demo3\demo3\obj\Debug\net7.0\ref\demo3.dll
+C:\이시영\demo3\demo3\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\이시영\demo3\demo3\obj\Debug\net7.0\demo3.csproj.CopyComplete

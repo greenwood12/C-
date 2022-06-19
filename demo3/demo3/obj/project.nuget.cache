@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+WAik3QotZc+rP7fmsg44emgfjhbMhP2qcWdvL+mkfki1LljOdLCm5hWZ4PUB/WDvaU1qJDU6u7+CBYJ6cwVAA==",
+  "dgSpecHash": "6Q1tkbQL+evRWAvxMcjDzSyRug/LTRmoAe1CQg00MHQDUW1xVS35jHGZTua8XcRHvVpVGAi2QpQ6JpBGjoQI8Q==",
   "success": true,
   "projectFilePath": "C:\\이시영\\demo3\\demo3\\demo3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
