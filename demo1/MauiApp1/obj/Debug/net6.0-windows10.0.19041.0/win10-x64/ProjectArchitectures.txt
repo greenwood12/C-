@@ -1,0 +1,1 @@
+C:\이시영\demo1\MauiApp1\MauiApp1.csproj;x64

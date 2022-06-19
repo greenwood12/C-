@@ -1,0 +1,17 @@
+C:\이시영\demo1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\이시영\demo1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\이시영\demo1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\이시영\demo1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\이시영\demo1\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\이시영\demo1\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll

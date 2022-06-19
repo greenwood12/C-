@@ -1,0 +1,15 @@
+C:\이시영\demo1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\이시영\demo1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\이시영\demo1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\이시영\demo1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\이시영\demo1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\이시영\demo1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
